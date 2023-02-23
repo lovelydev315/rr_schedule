@@ -74,7 +74,23 @@ RM-1/kyh-1/pdf
 
 6    https://drive.google.com/file/d/12WyotkB6Kn8jZQg5k4ol-4PTjvg5n_7H/view?usp=sharing
 
-RM-2
+RM-1/kyh-1/pdf
 
 7    https://drive.google.com/file/d/1SGee3mJzNRWIj1TEdYgU1RUqZXxPGC24/view?usp=sharing
+
+RM-2
+
+8    https://sendgb.com/3VTMy6r21Ua
+
+RM-2
+
+9    https://sendgb.com/UuF19XDQ230
+
+RM-2
+
+10    https://sendgb.com/f5QKHcsJjA6
+
+RM-2/Journal
+
+11    https://sendgb.com/B4v8FEpLCrG
 
