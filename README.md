@@ -74,3 +74,7 @@ RM-1/kyh-1/pdf
 
 6    https://drive.google.com/file/d/12WyotkB6Kn8jZQg5k4ol-4PTjvg5n_7H/view?usp=sharing
 
+RM-2
+
+7    https://drive.google.com/file/d/1SGee3mJzNRWIj1TEdYgU1RUqZXxPGC24/view?usp=sharing
+
