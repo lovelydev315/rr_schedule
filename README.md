@@ -94,3 +94,11 @@ RM-2/Journal
 
 11    https://sendgb.com/B4v8FEpLCrG
 
+RM-2/Journal/Chinese Journal of Aeronautics
+
+12    https://sendgb.com/IF3Dut1Pqzx
+
+RM-2/Journal/Chinese Journal of Aeronautics
+
+13    https://sendgb.com/xlHgFvDCdh6
+
